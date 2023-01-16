@@ -9,6 +9,7 @@
 # 小丑行为
 >![unknown](https://i.postimg.cc/vDwgxJKB/8-NTR-YB-NSY-T-SU4-B-0-T.png)
 >![unknown](https://i.postimg.cc/X76W94VV/91-H-T0-PUK1-WW-X2-H5-E1-O0.png)
+>- [StayPro中moxi老师Skid的内容](https://github.com/chunfeng666/StayProPublic-WuShuang/blob/main/src/main/java/dev/cuican/staypro/module/modules/combat/AutoPush.java)
 > - 不打自招 属实成小丑了
 
 ## 欢迎来抽打我 2b2t最强写端神

@@ -1,25 +1,30 @@
 # StayPro-WuShuang
 1. 这是由我们吴爽老师续写的StayPro版本：拥有宇宙第一牛逼的Skid candy AutoPush
 2. 还有宇宙无敌超级两格Burrow (虽然没有什么几把用处，但是我们吴爽就是牛逼)
-> 太垃圾了实在是，快点离开我们2b2t圈子吧 !!
+
 
 # 我们吴爽怎么你了 你凭什么这么对他!!
 ![unknown](https://i.postimg.cc/nLkWZXcq/L-18-YF-3-VLZ-HVADXATZV.jpg)
 
-![unknown](https://i.postimg.cc/vDwgxJKB/8-NTR-YB-NSY-T-SU4-B-0-T.png) 我们吴爽老师skid AutoPush还真就没超过400行
+![unknown](https://i.postimg.cc/vDwgxJKB/8-NTR-YB-NSY-T-SU4-B-0-T.png) 
+- 我们吴爽老师skid AutoPush还真就没超过400行
 
 ## 欢迎来抽打我 2b2t最强写端神
 ![unknown](https://i.postimg.cc/4ysmQDGF/6-V5-WGIH-RVD-BX4-ITQFA-FH.jpg)
+- 欢迎给吴爽致电
 
 
-![unknown](https://i.postimg.cc/YCKqNcxN/DLWY6-I23-5-8-Z76-19-BY-D.png) 吴爽老师的这个自我介绍是这样的
-
+![unknown](https://i.postimg.cc/YCKqNcxN/DLWY6-I23-5-8-Z76-19-BY-D.png)
+- 吴爽老师的这个自我介绍是这样的
+> 太垃圾了实在是，快点离开我们2b2t圈子吧 !!
 
 ## Skid的内容
 这AutoPush的代码并非来自于我们moxi老师 而是我们高贵的Cnady
-- [StayPro中moxi老师Skid的内容](https://github.com/chunfeng666/)
-- [Candy的AutoPush代码 你们可以自己去对比一下Settings和主体代码](https://github.com/NightDesertOrig/CandyPlus/blob/main/cc/candy/candymod/module/combat/AutoPush.java)
-- 希望吴爽老师您能看到自己的引以为傲的作品
+>- [StayPro中moxi老师Skid的内容](https://github.com/chunfeng666/)
+>- [Candy的AutoPush代码 你们可以自己去对比一下Settings和主体代码](https://github.com/NightDesertOrig/CandyPlus/blob/main/cc/candy/candymod/module/combat/AutoPush.java)
+>- 希望吴爽老师您能看到自己的引以为傲的作品
+
+  
 -![unknown](https://i.postimg.cc/9FjPCNL7/R924-TU61-RMDN9-XE54-DTP.jpg)
 
 ## 我想说的一些话

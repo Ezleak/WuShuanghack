@@ -6,8 +6,10 @@
 # 我们吴爽怎么你了 你凭什么这么对他!!
 ![unknown](https://i.postimg.cc/nLkWZXcq/L-18-YF-3-VLZ-HVADXATZV.jpg)
 
-![unknown](https://i.postimg.cc/vDwgxJKB/8-NTR-YB-NSY-T-SU4-B-0-T.png) 
-- 我们吴爽老师skid AutoPush还真就没超过400行
+# 小丑行为
+>![unknown](https://i.postimg.cc/vDwgxJKB/8-NTR-YB-NSY-T-SU4-B-0-T.png)
+>![unknown](https://i.postimg.cc/X76W94VV/91-H-T0-PUK1-WW-X2-H5-E1-O0.png)
+> - 不打自招 属实成小丑了
 
 ## 欢迎来抽打我 2b2t最强写端神
 ![unknown](https://i.postimg.cc/4ysmQDGF/6-V5-WGIH-RVD-BX4-ITQFA-FH.jpg)

@@ -22,7 +22,7 @@
 > 太垃圾了实在是，快点离开我们2b2t圈子吧 !!
 
 ## Skid的内容
-这AutoPush的代码并非来自于我们moxi老师 而是我们高贵的Cnady
+这AutoPush的代码并非来自于我们moxi老师 而是来自的Candy的
 >- [StayPro中moxi老师Skid的内容](https://github.com/chunfeng666/StayProPublic-WuShuang/blob/main/src/main/java/dev/cuican/staypro/module/modules/combat/AutoPush.java)
 >- [Candy的AutoPush代码 你们可以自己去对比一下Settings和主体代码](https://github.com/NightDesertOrig/CandyPlus/blob/main/cc/candy/candymod/module/combat/AutoPush.java)
 >- 希望吴爽老师您能看到自己的引以为傲的作品
